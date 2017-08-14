@@ -1,7 +1,7 @@
 {
-  "name": "book-template",
+  "name": "book-template-jp",
   "version": "0.0.0",
-  "description": "template for writing books",
+  "description": "template for writing books in Japanese",
   "main": "index.js",
   "scripts": {
     "test": "textlint articles"
