@@ -2,6 +2,11 @@
   "rules": {
     "preset-japanese": true,
     "preset-jtf-style": true,
-    "spellcheck-tech-word": true
+    "spellcheck-tech-word": true,
+    "prh": {
+      "rulePaths": [
+        "./prh.yml"
+      ]
+    }
   }
 }
