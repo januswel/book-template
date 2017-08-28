@@ -5,3 +5,7 @@ rules:
     specs:
       - from: react native
         to: React Native
+  - expected: DDD
+    specs:
+      - from: ddd
+        to: DDD
