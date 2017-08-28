@@ -2,9 +2,7 @@
 version: 1
 rules:
   - expected: React Native
-    specs:
-      - from: react native
-        to: React Native
+    pattern: /[rR]eact ?[nN]ative/
   - expected: DDD
     specs:
       - from: ddd
