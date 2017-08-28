@@ -4,6 +4,5 @@ rules:
   - expected: React Native
     pattern: /[rR]eact ?[nN]ative/
   - expected: DDD
+    pattern: /[dD]{3}/
     specs:
-      - from: ddd
-        to: DDD
