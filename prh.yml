@@ -5,4 +5,8 @@ rules:
     pattern: /[rR]eact ?[nN]ative/
   - expected: DDD
     pattern: /[dD]{3}/
+  - expected: 例えば
+    pattern:  /たとえば/
     specs:
+      - from: たとえば
+        to:   例えば
