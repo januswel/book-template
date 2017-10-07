@@ -7,6 +7,8 @@ rules:
     pattern: /[dD]{3}/
   - expected: Redux
     pattern: /[rR]edux(?!-)/
+  - expected: Zeplin
+    pattern: /[zZ]eplin/
   - expected: 例えば
     pattern:  /たとえば/
     specs:
