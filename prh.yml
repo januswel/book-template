@@ -9,6 +9,8 @@ rules:
     pattern: /[rR]edux(?!-)/
   - expected: Zeplin
     pattern: /[zZ]eplin/
+  - expected: Web
+    pattern: /[wW]eb/
   - expected: 例えば
     pattern:  /たとえば/
     specs:
