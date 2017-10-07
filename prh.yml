@@ -6,7 +6,7 @@ rules:
   - expected: DDD
     pattern: /[dD]{3}/
   - expected: Redux
-    pattern: /[rR]edux/
+    pattern: /[rR]edux(?!-)/
   - expected: 例えば
     pattern:  /たとえば/
     specs:
